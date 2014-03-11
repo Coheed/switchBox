@@ -1,12 +1,6 @@
 switchBox
 =========
 
-
-======================
-Visit the [project website][1]
-for more information.
-
-
 System requirements
 -------------------
 
