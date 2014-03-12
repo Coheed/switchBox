@@ -10,7 +10,7 @@ echo "<div id='sbWrapper'>";
 
 
 for ($x = 0; $x < $anzahl; $x++) {
-    echo "<div class='switchBox nr".$x."'><div class='content'>".$topic[$x]."</div></div>";
+    echo "<div class='switchBox nr" . $x . "'><div class='content'>" . $topic[$x] . "</div></div>";
 
 }
 
