@@ -30,6 +30,10 @@ Note that the LGPL incorporates the terms and conditions of the GPL, therefore
 both licenses are included there. This, however, does not imply that SwitchBox is
 dual licensed under both the GPL and the LGPL.
 
+Todo
+----
+.bigBox animated transition (included right:0,left:auto ?)
+Toggle "X" for smooth and clean closing behavior.
 
 Getting support
 ---------------

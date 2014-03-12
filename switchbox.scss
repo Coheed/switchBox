@@ -1,0 +1,44 @@
+#sbWrapper {
+  margin:0 auto;
+
+  .switchBox:hover{
+    border: 1px solid #0064AE;
+  }
+  .bigBox{
+    z-index:20;
+    -webkit-transition:width 2s; /* For Safari 3.1 to 6.0 */
+    transition:width 2s;
+    width:500px !important;
+    height:700px!important;
+    border: 1px solid #D4D4D4!important;
+    background: url("/files/oc/images/wasserzeichen.svg") no-repeat 75px 6px  #ffffff!important;
+    right:0 !important;
+    left:auto !important;
+
+  }
+  .switchBox {
+    -webkit-transition:width 2s; /* For Safari 3.1 to 6.0 */
+    transition:width 2s;
+    cursor: pointer;
+    background: url("/files/oc/images/wasserzeichen.svg") no-repeat 75px 6px  #ffffff;
+    background-size: 87px 134px;
+    border: 1px solid #D4D4D4;
+    $breiteElement=150px;
+    height: $breiteElement;
+    margin-top:15px;
+    width: $breiteElement*1.618;
+    float: left;
+    //margin: 11.7px 37.5px 0 37.5px;
+    .content {
+      line-height: 50px;
+      text-align: center;
+      font-size: 30px;
+      color:$blue;
+      margin:20px 20px;
+      text-transform:uppercase;
+    }
+    .nr2{
+      width: 20%;
+    }
+  }
+}
