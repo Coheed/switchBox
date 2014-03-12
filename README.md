@@ -33,6 +33,7 @@ dual licensed under both the GPL and the LGPL.
 Todo
 ----
 .bigBox animated transition (included right:0,left:auto ?)
+
 Toggle "X" for smooth and clean closing behavior.
 
 Getting support
