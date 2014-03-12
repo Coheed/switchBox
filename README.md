@@ -36,6 +36,8 @@ Todo
 
 Toggle "X" for smooth and clean closing behavior.
 
+VariableToggle -> Only one opened -> if(isset(togglestuff)) -> close/openNew
+
 Getting support
 ---------------
 rs@oc-bo.de
